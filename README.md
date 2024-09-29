@@ -1,5 +1,3 @@
-# Minera-Frontend
-
 
 
 ## Getting started
